@@ -1,0 +1,15 @@
+{
+    "nome": "aluno_ebac@teste.com",
+    "sobrenome": "teste@teste.com",
+    "país": "Brasil",
+    "nomeEnd": "Av Paulista",
+    "numEnd": "1374",
+    "cidade": "São Paulo",
+    "estado": "Paraná",
+    "cep": "01310-100",
+    "telefone": "999129904",
+    "email": "leonardo@ebac.com",
+    "pagamento": "cheque"
+
+
+  }
